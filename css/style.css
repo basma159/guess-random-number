@@ -92,6 +92,7 @@ p {
 }
 
 .game-box input {
+  width: 150px;
   font-size: 15px;
   padding: 10px;
   border-radius: 15px;
